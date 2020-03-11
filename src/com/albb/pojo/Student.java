@@ -12,7 +12,7 @@ import java.net.URLConnection;
  * @author: shb
  * @create: 2020-02-28 11:33
  **/
-public class Student {
+public class Student  {
     public static void main(String[] args) throws IOException {
         URL url = new URL("http://p6.qhimg.com/t0123d79ef15831e817.jpg");
         URLConnection conn = url.openConnection();
@@ -28,4 +28,12 @@ public class Student {
 
 
     }
+}
+class b extends Student{
+    Student student=new Student();
+    public void a(){
+        student=new b();
+    }
+
+
 }
