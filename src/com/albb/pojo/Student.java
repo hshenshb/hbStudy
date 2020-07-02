@@ -29,11 +29,4 @@ public class Student  {
 
     }
 }
-class b extends Student{
-    Student student=new Student();
-    public void a(){
-        student=new b();
-    }
 
-
-}
