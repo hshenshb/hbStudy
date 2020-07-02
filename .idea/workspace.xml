@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57de62d5-a32c-40c6-8d62-03f822c4f3c4" name="Default Changelist" comment="代理联系">
-      <change afterPath="$PROJECT_DIR$/src/com/Sort/MaopaoSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Sort/XuanzeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/albb/demo20200311/Dongtaidaili.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/albb/demo20200311/Myinvocationhandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/albb/demo20200311/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/albb/demo20200311/PeopleImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/albb/demo20200311/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/albb/pojo/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/albb/pojo/testTeacher.java" afterDir="false" />
+    <list default="true" id="57de62d5-a32c-40c6-8d62-03f822c4f3c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Sort/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Sort/insertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Test/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Test/Demo20200627.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/albb/digui/DiGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/albb/pojo/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/albb/pojo/B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hbStudy/META-INF/hbStudy.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hbStudy/com/albb/pojo/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hbStudy/com/albb/pojo/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hbStudy/com/albb/pojo/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hbStudy/com/albb/pojo/b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/albb/pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/albb/pojo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/albb/pojo/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/albb/pojo/Teacher.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,42 +31,105 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Sort/MaopaoSort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="53" selection-end-column="15" />
+            <state relative-caret-position="1189">
+              <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
               <folding>
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Sort/XuanzeSort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Sort/insertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            <state relative-caret-position="508">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Test/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Integer.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Test/Demo20200627.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="348">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding>
-                <element signature="e#46394#46395#0" expanded="true" />
-                <element signature="e#46458#46459#0" expanded="true" />
-                <element signature="e#47036#47037#0" expanded="true" />
-                <element signature="e#47092#47093#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="928">
+              <caret line="44" column="27" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="27" />
+              <folding>
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/albb/digui/DiGui.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="812">
+              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Sort/MaopaoSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="928">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -78,12 +146,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/albb/pojo/Service.java" />
-        <option value="$PROJECT_DIR$/src/com/albb/pojo/Server.java" />
         <option value="$PROJECT_DIR$/src/com/albb/pojo/Client.java" />
         <option value="$PROJECT_DIR$/src/com/albb/pojo/StringBufTest.java" />
         <option value="$PROJECT_DIR$/src/com/albb/ITface/Dog.java" />
@@ -100,11 +172,22 @@
         <option value="$PROJECT_DIR$/src/com/albb/demo20200311/Myinvocationhandler.java" />
         <option value="$PROJECT_DIR$/src/com/albb/demo20200311/Dongtaidaili.java" />
         <option value="$PROJECT_DIR$/src/com/albb/demo20200311/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/albb/pojo/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/albb/pojo/Teacher.java" />
         <option value="$PROJECT_DIR$/src/com/albb/pojo/testTeacher.java" />
         <option value="$PROJECT_DIR$/src/com/Sort/MaopaoSort.java" />
         <option value="$PROJECT_DIR$/src/com/Sort/XuanzeSort.java" />
+        <option value="$PROJECT_DIR$/src/com/Sort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/com/albb/digui/DiGui.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/com/Sort/Merge.java" />
+        <option value="$PROJECT_DIR$/src/com/Test/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/albb/pojo/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/albb/pojo/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/Test/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/albb/pojo/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/albb/pojo/A.java" />
+        <option value="$PROJECT_DIR$/src/com/albb/pojo/B.java" />
+        <option value="$PROJECT_DIR$/src/com/Test/Demo20200627.java" />
+        <option value="$PROJECT_DIR$/src/com/Sort/insertionSort.java" />
       </list>
     </option>
   </component>
@@ -125,10 +208,9 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="387" />
-    <option name="y" value="72" />
+    <option name="x" value="-10" />
     <option name="width" value="1490" />
-    <option name="height" value="780" />
+    <option name="height" value="750" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -138,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,6 +252,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="albb" type="462c0819:PsiDirectoryNode" />
+              <item name="digui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hbStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hbStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="albb" type="462c0819:PsiDirectoryNode" />
               <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,19 +269,25 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="Sort" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hbStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hbStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/IDE/OnePlus" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -202,7 +299,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -221,9 +318,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XuanzeSort">
-    <configuration name="MaopaoSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Sort.MaopaoSort" />
+  <component name="RunManager" selected="Application.insertionSort">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test.Demo" />
+      <module name="hbStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo20200627" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test.Demo20200627" />
+      <module name="hbStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test.Main" />
+      <module name="hbStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Sort.Merge" />
       <module name="hbStudy" />
       <extension name="coverage">
         <pattern>
@@ -235,51 +371,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.albb.demo20200311.Test" />
-      <module name="hbStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.albb.demo20200311.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.albb.Daili1.Test2" />
-      <module name="hbStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.albb.Daili1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XuanzeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Sort.XuanzeSort" />
+    <configuration name="insertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Sort.insertionSort" />
       <module name="hbStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testTeacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.albb.pojo.testTeacher" />
-      <module name="hbStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.albb.pojo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,11 +386,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XuanzeSort" />
-        <item itemvalue="Application.MaopaoSort" />
-        <item itemvalue="Application.testTeacher" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.insertionSort" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo20200627" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Merge" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +415,41 @@
       <workItem from="1584329546098" duration="1185000" />
       <workItem from="1585192303548" duration="1486000" />
       <workItem from="1585304133305" duration="81000" />
-      <workItem from="1585530489590" duration="5249000" />
+      <workItem from="1585530489590" duration="6492000" />
+      <workItem from="1585619828932" duration="9042000" />
+      <workItem from="1585705229867" duration="5175000" />
+      <workItem from="1585737578118" duration="5577000" />
+      <workItem from="1585799402256" duration="2159000" />
+      <workItem from="1585879092923" duration="8970000" />
+      <workItem from="1585905001436" duration="364000" />
+      <workItem from="1585905447539" duration="816000" />
+      <workItem from="1585906339706" duration="163000" />
+      <workItem from="1585906751030" duration="282000" />
+      <workItem from="1585907064320" duration="264000" />
+      <workItem from="1585907367755" duration="423000" />
+      <workItem from="1585907840897" duration="121000" />
+      <workItem from="1585907993883" duration="109000" />
+      <workItem from="1585908143206" duration="10000" />
+      <workItem from="1585908192713" duration="51000" />
+      <workItem from="1585908296783" duration="704000" />
+      <workItem from="1586080213322" duration="18000" />
+      <workItem from="1586313256557" duration="748000" />
+      <workItem from="1586397920326" duration="10564000" />
+      <workItem from="1586483542492" duration="622000" />
+      <workItem from="1586657104062" duration="837000" />
+      <workItem from="1587002410649" duration="610000" />
+      <workItem from="1587174027590" duration="1233000" />
+      <workItem from="1587369963901" duration="1603000" />
+      <workItem from="1587433044092" duration="418000" />
+      <workItem from="1592446490145" duration="965000" />
+      <workItem from="1592792182863" duration="4129000" />
+      <workItem from="1592899330958" duration="268000" />
+      <workItem from="1592954570681" duration="5497000" />
+      <workItem from="1593047927240" duration="2280000" />
+      <workItem from="1593141592091" duration="4356000" />
+      <workItem from="1593418128564" duration="2811000" />
+      <workItem from="1593564396261" duration="1315000" />
+      <workItem from="1593654980178" duration="226000" />
     </task>
     <task id="LOCAL-00001" summary="联系网络通信socket相关内容">
       <created>1582985989987</created>
@@ -334,11 +465,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583889769505</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="算法练习">
+      <created>1585537207037</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585537207037</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29281000" />
+    <option name="totallyTimeSpent" value="103278000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -353,7 +491,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13337801" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3069705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -362,9 +500,9 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3069705" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.23592493" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.45978552" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.347185" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.21581769" />
@@ -390,7 +528,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="联系网络通信socket相关内容" />
     <MESSAGE value="代理联系" />
-    <option name="LAST_COMMIT_MESSAGE" value="代理联系" />
+    <MESSAGE value="算法练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法练习" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Sort/MaopaoSort.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/reflect/Method.java">
@@ -525,45 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="31" selection-start-line="31" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/albb/Daili1/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -585,9 +697,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="812">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#46394#46395#0" expanded="true" />
@@ -598,32 +717,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Comparable.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Sort/MaopaoSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="53" selection-end-column="15" />
-          <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="290">
+          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Sort/XuanzeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        <state relative-caret-position="812">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
           <folding>
             <element signature="e#262#263#0" expanded="true" />
             <element signature="e#307#308#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Sort/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1682">
+          <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Sort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="194" column="1" lean-forward="true" selection-start-line="194" selection-start-column="1" selection-end-line="194" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1189">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Test/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Test/Demo20200627.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="27" />
+          <folding>
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/albb/digui/DiGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/albb/pojo/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Sort/MaopaoSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Sort/insertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>

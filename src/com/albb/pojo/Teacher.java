@@ -41,4 +41,10 @@ public class Teacher implements Comparable<Teacher> {
     public int compareTo(Teacher o) {
         return this.getAge()-o.getAge();
     }
+
+    private void outTeacher(){
+        System.out.println("老师好");
+    }
+
+
 }
