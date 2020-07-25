@@ -8,6 +8,7 @@ import java.text.DecimalFormat;
 /**
  * @author: shb
  * @create: 2020-06-26 12:02
+ * 获取随机数
  **/
 public class Demo20200627 {
     public static void main(String[] args) {
